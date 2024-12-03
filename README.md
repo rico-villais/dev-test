@@ -27,3 +27,25 @@ This exercise is meant showcase your creativity and talent in problem solving ag
 * Fully responsive UI
 * Unit Tests of the API
 * Functional Tests of the UI
+
+
+/**
+
+    update supa url & key
+    create users table
+    users column names & data types
+        _id = int
+        guid = varchar
+        isActive = bool
+        balance = varchar
+        picture = varchar
+        age = int
+        eyeColor = varchar
+        name = json
+        company = varchar 
+        email = varchar
+        password = varchar
+        phone = varchar
+        address = varchar
+
+*/
