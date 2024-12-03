@@ -31,7 +31,6 @@ This exercise is meant showcase your creativity and talent in problem solving ag
 
 /**
 
-    update supa url & key
     create users table
     users column names & data types
         _id = int
